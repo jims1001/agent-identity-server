@@ -1,10 +1,10 @@
-package com.agent.identity_server.identity_serverf;
+package com.agent.identify;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class IdentityServerfApplicationTests {
+class IdentifyServerApplicationTests {
 
 	@Test
 	void contextLoads() {
